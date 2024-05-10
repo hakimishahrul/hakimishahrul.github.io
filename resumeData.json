@@ -1,0 +1,144 @@
+{
+  "main": {
+    "name":"Hakimi Shahrul",
+    "description":"Welcome to my portfolio! This is the place where you get to know me better! This website is developed using React and Vue.js",
+    "image":"profilepic.png",
+    "bio":"I'm hailed from Changlun, Kedah, Malaysia. I'm a productive individual that benefits computing skills for community and country and strives for excellence day by day. My objective is to strive for efficiency and sustainability for the future generations, so that they, too, would enjoy a peaceful and comforting life. I would also like to indulge myself in technology and computing skills especially hardware building software programming every day to benefit society.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "hakimishahrul@gmail.com",
+    "phone": "(+60)10 652 5751",
+    "github":"https://github.com/hakimishahrul?tab=repositories",
+    "project":"https://github.com/hakimishahrul",
+    "address":{
+      "street":"388, Jalan Teja 15",
+      "city":"Taman Teja",
+      "state":"Changlun, Kedah",
+      "zip": "06010"
+    },
+    "website": "hakimishahrul.github.io",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/muhammadhakimi.shahrulazmi",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/muhammad-hakimi-shahrul-azmi-22191223b/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/mhsamyhm",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/hakimishahrul",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Universiti Teknologi Petronas",
+        "degree":"Bachelor of Computer Engineering",
+        "graduated":"April 2024, with CPGA 3.48",
+        "description":"Under MARA IESP Programme."
+      },
+      {
+        "school":"MARA High Skills College Ledang",
+        "degree":"Diploma of Biomedical Electronics Engineering (Diagnostic)",
+        "graduated":"December 2019, with CPGA 3.78",
+        "description":"Best Graduate under IPMa (MKP 2020)."
+      },
+      {
+        "school":"MARA Junior Science College Tun Ghafar Baba",
+        "degree":"Secondary School",
+        "graduated":"December 2019, with SPM 9As, 1B",
+        "description":"Executive Council of Multimedia, Badan Dakwah dan Rohani"
+      }
+    ],
+    "work":[
+      {
+        "company":"Vitrox Technologies Sdn. Bhd.",
+        "title":"Data Engineering Intern",
+        "years":"September 2022 - April 2023 (8 months)",
+        "description":"Solving problems related to database query problem, managing and creating data visualizations, creating edge applications using React framework"
+      },
+      {
+        "company":"Ketari Merah Changlun District",
+        "title":"Computer Technician",
+        "years":"Feburary 2017",
+        "description":"Being an experienced technician, repairing computer, software or hardware problems for a month"
+      }
+    ],
+    "skills":[
+      {
+        "name":"OS (Windows, Linux)",
+        "level":"90%"
+      },
+      {
+        "name":"Web Framework (Javascript, Node.js, React)",
+        "level":"80%"
+      },
+      {
+        "name":"Electronics Hardware (Diagnostics, Soldering)",
+        "level":"70%"
+      },
+      {
+        "name":"Data/Machine Learning (Python, R, Matlab, Power BI)",
+        "level":"60%"
+      },
+      {
+        "name":"Development Codes (C/C++, Arduino)",
+        "level":"50%"
+      },
+      {
+        "name":"Electrical Hardware (Wiring, Electrical Knowledge)",
+        "level":"40%"
+      },
+      {
+        "name":"Graphics Applications (Photoshop, Premier Pro)",
+        "level":"30%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Weed Plants Model Detection",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"01.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":" Workstation Cluster",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"02.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Leg Physiotherapy Monitoring",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"03.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Patient Monitoring System",
+        "category":"A React based resume website template",
+        "image":"04.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Website Portfolio using React",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"05.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ]
+  }
+}
