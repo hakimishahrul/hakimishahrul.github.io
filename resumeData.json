@@ -8,7 +8,7 @@
     "email": "hakimishahrul@gmail.com",
     "phone": "(+60)10 652 5751",
     "github":"https://github.com/hakimishahrul?tab=repositories",
-    "project":"https://github.com/hakimishahrul",
+    "project":"https://github.com/hakimishahrul?tab=repositories",
     "address":{
       "street":"388, Jalan Teja 15",
       "city":"Taman Teja",
@@ -16,7 +16,7 @@
       "zip": "06010"
     },
     "website": "hakimishahrul.github.io",
-    "resumedownload":"http://timbakerdev.com",
+    "resumedownload":"https://mhsa.my/assets/Resume.pdf",
     "social":[
       {
         "name":"facebook",
